@@ -1,7 +1,7 @@
 # Simple Temperature Converter
 This is a simple celsius to fahrenheit temperature converter!
 
-**Link to project:** https://fantastic-kitten-1397f4.netlify.app
+**Link to project:** [https://fantastic-kitten-1397f4.netlify.app](https://dancing-licorice-80674d.netlify.app/)
 
 ![Simple Temp Converter](https://ibb.co/vjcyRrQ)
 
