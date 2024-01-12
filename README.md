@@ -1,9 +1,9 @@
-# Simple Temperature Converter
+# <b> Simple Temperature Converter </b>
 This is a simple celsius to fahrenheit temperature converter!
 
 **Link to project:** (https://dancing-licorice-80674d.netlify.app/)
 
-![Simple Temp Converter](<a href="https://ibb.co/vjcyRrQ"><img src="https://i.ibb.co/mcRZgYX/Screen-Shot-2024-01-11-at-8-18-45-PM.png" alt="Screen-Shot-2024-01-11-at-8-18-45-PM" border="0"></a>)
+![Simple Temp Converter]<a href="https://ibb.co/vjcyRrQ"><img src="https://i.ibb.co/mcRZgYX/Screen-Shot-2024-01-11-at-8-18-45-PM.png" alt="Screen-Shot-2024-01-11-at-8-18-45-PM" border="0"></a>
 
 ## How It's Made:
 
